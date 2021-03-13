@@ -10,5 +10,6 @@
 1 9
 1 1
 
-# first line shows the number of possible jobs and their serial number.
+# first line shows the number of applicants.
+# second line shows the number of possible jobs of first applicant and the job's serial number.
 # and so on.
