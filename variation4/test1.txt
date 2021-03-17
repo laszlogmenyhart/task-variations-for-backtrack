@@ -1,0 +1,15 @@
+10
+1000 0 0 0 0 0 0 0 0 100
+0 100 0 0 0 0 0 100 10 0
+0 0 100 0 0 0 0 0 0 0
+0 0 0 100 0 0 0 0 0 0
+0 0 0 0 100 0 0 0 0 0
+0 0 0 0 0 100 0 0 0 0
+0 0 0 0 0 0 100 0 0 0
+0 100 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 10 100 0
+100 0 0 0 0 0 0 0 0 1000
+
+# first line shows the number of applicants and the maximum salary.
+# second line shows the first applicant jobs (and salaries). 0 means that applicant doesn't want the given job.
+# and so on.
